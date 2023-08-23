@@ -15,7 +15,7 @@ Step 4
 -will do simple junit testing.
 
 
-Technolody stack use in this module:
+**Technolody stack use in this module**
 
 Framework: Spring-boot
 
@@ -24,7 +24,7 @@ Java version: 17
 Database: Postgres
 
 
-Sample Api
+**Sample Api**
 
 1. URL : localhost:8081/api/ww/calculate
 
