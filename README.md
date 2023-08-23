@@ -1,2 +1,2 @@
 # WW_DistanceCalculator
-Test
+This is a java test.
